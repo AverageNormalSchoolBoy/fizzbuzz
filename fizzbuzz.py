@@ -51,9 +51,9 @@ m2 = input("For multiples of what number shall we print 'Buzz'?")
 for i (list(range(1, int(number)+1))):
     print()
     for j (list(range(1, int(number)+1))):
-        if int(j)%int(m1) == 0
+        if int(j)%int(m1) == 0:
             print("Fizz")
-        elif int(j)%int(m2) == 0
+        elif int(j)%int(m2) == 0:
             print("Fizz")
         else: print(j)
         
