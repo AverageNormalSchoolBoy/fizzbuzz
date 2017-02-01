@@ -54,7 +54,7 @@ for i in (list(range(1, int(number)+1))):
         if int(j)%int(m1) == 0:
             print("Fizz")
         elif int(j)%int(m2) == 0:
-            print("Fizz")
+            print("Buzz")
         else: print(j)
         
         
