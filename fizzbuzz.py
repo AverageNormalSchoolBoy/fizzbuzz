@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
-Author: <Brendan>
-Credit: <Mr. Dennison>
+Author: Brendan
+Credit: Mr. Dennison
 
 Assignment:
 
